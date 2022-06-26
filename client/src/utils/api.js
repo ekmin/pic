@@ -6,9 +6,6 @@ const api = axios.create({
   baseURL: import.meta.env.VITE_API_URL,
 });
 
-// console.log(process.env.API_URL);
-console.log(import.meta.env.VITE_API_URL);
-
 api.interceptors.response.use(
   (res) => res,
   (err) => {
