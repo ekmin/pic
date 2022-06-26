@@ -1,0 +1,19 @@
+{
+  "name": "pic",
+  "version": "1.0.0",
+  "description": "Best way to make the summer perfect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekmin/pic.git"
+  },
+  "author": "Ekmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekmin/pic/issues"
+  },
+  "homepage": "https://github.com/ekmin/pic#readme"
+}
