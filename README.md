@@ -13,4 +13,8 @@ Pic is an Application that made to plan picnics this app made for the [Freyhack 
 * Redux
 * JWT
 
+## License
+
+*The software is published under the MIT License.*
+
 *Make your summer perfect !!*
